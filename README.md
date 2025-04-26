@@ -4,6 +4,8 @@
 
 I am currently pursuing a Bachelor’s degree in Computer Science and Engineering. My goal is to become proficient at writing clean, efficient code and to use my skills to build something meaningful that can make a positive impact.
 
+ I'd like to change the world, I just don't have the source code yet.
+
 
 
   <h3>👨‍💻 Programming Languages</h3>
