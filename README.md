@@ -14,4 +14,6 @@ I am currently pursuing a Bachelor’s degree in Computer Science and Engineerin
      
   </p>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Imdilshan&show_icons=true&theme=default" width="400">
+
 [![Imdilshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Imdilshan&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Imdilshan)
