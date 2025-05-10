@@ -1,17 +1,21 @@
-# highfive
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Md Dilshan a.k.a <a href="https://codeforces.com/profile/XDhighfive/">xdhighfive</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/md-dilshan-962650321/" target="_blank" rel="noreferrer">Md Dilshan</a> is an aspiring software dev from India.</font></h3>
 
-**` Learner (Developer)`**
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-I am currently pursuing a Bachelor’s degree in Computer Science and Engineering. My goal is to become proficient at writing clean, efficient code and to use my skills to build something meaningful that can make a positive impact.
-
- I'd like to change the world, I just don't have the source code yet.
-
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-  <h3>👨‍💻 Programming Languages</h3>
-  <p>
-      <a> <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a> <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imdilshan&show_icons=true&theme=default" width="400">
+- I am currently learning C++ & Competitive Programming.
+
+#### 👨‍💻 Programming Languages
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
+
+#### OS Stack
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine">
+                                                                                                                                                                                                                                                                           
+#### Editor / IDE I ♥
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
