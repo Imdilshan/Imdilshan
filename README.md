@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Md%20Dilshan&reversal=false&textBg=false&desc=Aspiring%20Software%20Engineer%20&descAlignY=65&fontSize=72"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Md%20Dilshan&reversal=false&textBg=false&desc=Aspiring%20Software%20Engineer&descAlignY=65&fontSize=72"/>
   <p align="center">
     -highfive-
   </p>
@@ -15,7 +15,7 @@
 
 <div align="center">
   <p align="center" style="font-size: 1.2em; font-style: italic; max-width: 800px; margin: 0 auto;">
-    I am a Computer Science student currently pursuing a B.Tech degree, with a strong focus on competitive programming. I actively engage in solving algorithmic challenges to sharpen my problem-solving skills and logical thinking. My goal is to go beyond theoretical knowledge by applying what I learn to real-world problems, building practical solutions that can make a meaningful impact. I am passionate about continuously improving myself and exploring innovative ways to bridge the gap between academic learning and real-life applications in technology.
+    I am an <strong>Aspiring Software Engineer</strong> currently pursuing a B.Tech degree, with a strong focus on competitive programming. I actively engage in solving algorithmic challenges to sharpen my problem-solving skills and logical thinking. My goal is to go beyond theoretical knowledge by applying what I learn to real-world problems, building practical solutions that can make a meaningful impact. I am passionate about continuously improving myself and exploring innovative ways to bridge the gap between academic learning and real-life applications in technology.
   </p>
 </div>
 
