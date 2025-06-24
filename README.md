@@ -103,11 +103,8 @@
 
 <h3 align="center">📊 GITHUB ACTIVITY 📊</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-Actively%20Contributing-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories-Projects%20%26%20Practice-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-</p>
+
+![Highfive's Github stats](https://github-readme-stats.vercel.app/api?username=Imdilshan&show_icons=true&theme=github_dark)
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Imdilshan&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
