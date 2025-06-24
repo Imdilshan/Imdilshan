@@ -101,14 +101,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<h3 align="center">📊 GITHUB STATS 📊</h3>
+<h3 align="center">📊 GITHUB ACTIVITY 📊</h3>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Imdilshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdilshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Actively%20Contributing-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-Projects%20%26%20Practice-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+</p>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Imdilshan&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
