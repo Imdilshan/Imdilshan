@@ -50,14 +50,26 @@
   I enjoy the process of breaking down complex problems and developing clean, efficient solutions. Through competitive programming and real-world projects, I aim to create software that adds value to people's lives.
 </p>
 
-### 📈 Competitive Programming Profiles
+<h2 align="center">🏆 Competitive Programming Profiles</h2>
 
-- 🏹 [CodeChef](https://www.codechef.com/users/xdhighfive) — **Rating:** 1345 (1★)
-- 💻 [Codeforces](https://codeforces.com/profile/XDhighfive) — **Rating:** 888 (Newbie)
-- ⚙️ [AtCoder](https://atcoder.jp/users/highfive) — **Rating:** 230 (Gray)
-- 🧮 [LeetCode](https://leetcode.com/u/XDhighfive/)
-
----
+<table align="center">
+  <tr>
+    <td>🏹 <a href="https://www.codechef.com/users/xdhighfive"><strong>CodeChef</strong></a></td>
+    <td><strong>Rating:</strong> 1345 (1★)</td>
+  </tr>
+  <tr>
+    <td>💻 <a href="https://codeforces.com/profile/XDhighfive"><strong>Codeforces</strong></a></td>
+    <td><strong>Rating:</strong> 888 (Newbie)</td>
+  </tr>
+  <tr>
+    <td>⚙️ <a href="https://atcoder.jp/users/highfive"><strong>AtCoder</strong></a></td>
+    <td><strong>Rating:</strong> 230 (Gray)</td>
+  </tr>
+  <tr>
+    <td>🧮 <a href="https://leetcode.com/u/XDhighfive/"><strong>LeetCode</strong></a></td>
+    <td><strong>Rating:</strong> —</td>
+  </tr>
+</table>
 
 <br>
 
