@@ -51,25 +51,17 @@
 </p>
 
 <h2 align="center">🏆 Competitive Programming Profiles</h2>
+  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-XDhighfive-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/XDhighfive/)
+  [![Codeforces](https://badges.joonhyung.xyz/codeforces/XDhighfive.svg)](https://codeforces.com/profile/XDhighfive)
+  [![CodeChef](https://cp-logo.vercel.app/codechef/xdhighfive?logo=true)](https://www.codechef.com/users/xdhighfive)
+  [![AtCoder](https://cp-logo.vercel.app/atcoder/highfive?logo=true)](https://atcoder.jp/users/highfive)
 
-<table align="center">
-  <tr>
-    <td>🏹 <a href="https://www.codechef.com/users/xdhighfive"><strong>CodeChef</strong></a></td>
-    <td><strong>Rating:</strong> 1345 (1★)</td>
-  </tr>
-  <tr>
-    <td>💻 <a href="https://codeforces.com/profile/XDhighfive"><strong>Codeforces</strong></a></td>
-    <td><strong>Rating:</strong> 888 (Newbie)</td>
-  </tr>
-  <tr>
-    <td>⚙️ <a href="https://atcoder.jp/users/highfive"><strong>AtCoder</strong></a></td>
-    <td><strong>Rating:</strong> 230 (Gray)</td>
-  </tr>
-  <tr>
-    <td>🧮 <a href="https://leetcode.com/u/XDhighfive/"><strong>LeetCode</strong></a></td>
-    <td><strong>Rating:</strong> —</td>
-  </tr>
-</table>
+
+- **Chess:** A game of pure logic, strategy, and elegance.  
+ [![Chess.com](https://img.shields.io/badge/Chess.com-xdhighfive-green?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/xdhighfive)
+![Rapid Rating](https://img.shields.io/badge/Rapid-2121-blue?style=for-the-badge&logo=chess.com&logoColor=white)
+---
 
 <br>
 
