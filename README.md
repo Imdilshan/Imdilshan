@@ -50,6 +50,15 @@
   I enjoy the process of breaking down complex problems and developing clean, efficient solutions. Through competitive programming and real-world projects, I aim to create software that adds value to people's lives.
 </p>
 
+### 📈 Competitive Programming Profiles
+
+- 🏹 [CodeChef](https://www.codechef.com/users/xdhighfive) — **Rating:** 1345 (1★)
+- 💻 [Codeforces](https://codeforces.com/profile/XDhighfive) — **Rating:** 888 (Newbie)
+- ⚙️ [AtCoder](https://atcoder.jp/users/highfive) — **Rating:** 230 (Gray)
+- 🧮 [LeetCode](https://leetcode.com/u/XDhighfive/)
+
+---
+
 <br>
 
 <h3 align="center">
