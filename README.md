@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Md Dilshan 👋</h1>
 <p align="center"><strong>Aspiring Software Engineer | Competitive Programmer | Tech Explorer</strong></p>
+<p align="center"><em>aka <strong>highfive</strong> on coding platforms</em></p>
 
 <p align="center">
   <a href="https://github.com/Imdilshan?tab=followers">
@@ -63,8 +64,9 @@ A clean and intuitive web app to calculate SGPA from grades and credits.
 
 #### 🛠 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white" height="24"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png"
+       alt="Sublime Text"style="height:48px; max-width:48px; margin-left:8px; vertical-align:middle;" />
 </p>
 
 ---
