@@ -25,6 +25,7 @@
 
 ---
 
+<!--
 ### 🔗 Competitive Programming
 
 <p align="center">
@@ -33,7 +34,7 @@
   <a href="https://www.codechef.com/users/xdhighfive"><img src="https://cp-logo.vercel.app/codechef/xdhighfive?logo=true" height="28"/></a>
   <a href="https://atcoder.jp/users/highfive"><img src="https://cp-logo.vercel.app/atcoder/highfive?logo=true" height="28"/></a>
 </p>
-
+-->
 ---
 
 ### 🌟 Featured Project
