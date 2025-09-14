@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md Dilshan 👋</h1>
-<p align="center"><strong>Aspiring Software Engineer | Competitive Programmer | Tech Explorer</strong></p>
+<p align="center"><strong> Software Engineer | Competitive Programmer | Tech Explorer</strong></p>
 <p align="center"><em>aka <strong>highfive</strong> on coding platforms</em></p>
 
 <p align="center">
