@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Imdilshan&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi, I'm Md Dilshan 👋</h1>
 <p align="center"><strong> Software Engineer | Competitive Programmer | Tech Explorer</strong></p>
 <p align="center"><em>aka <strong>highfive</strong> on coding platforms</em></p>
