@@ -46,6 +46,12 @@ A clean and intuitive web app to calculate SGPA from grades and credits.
 🔗 [Live App](https://imdilshan.github.io/Sgpa-Calculator/) | 📦 [GitHub Repo](https://github.com/Imdilshan/Sgpa-Calculator)
 
 ---
+**🎯 Internal Marks Calculator**  
+A clean and intuitive web app to calculate Internal marks and grades.
+
+🔗 [Live App](https://imdilshan.github.io/Internal-Marks-Calculator/) | 📦 [GitHub Repo](https://github.com/Imdilshan/Internal-Marks-Calculator)
+
+---
 
 ### 🚀 Tech Stack
 
