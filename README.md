@@ -26,17 +26,6 @@
 
 ---
 
-<!--
-### 🔗 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/XDhighfive/"><img src="https://img.shields.io/badge/LeetCode-XDhighfive-orange?style=flat-square&logo=leetcode" /></a>
-  <a href="https://codeforces.com/profile/XDhighfive"><img src="https://badges.joonhyung.xyz/codeforces/XDhighfive.svg" height="28"/></a>
-  <a href="https://www.codechef.com/users/xdhighfive"><img src="https://cp-logo.vercel.app/codechef/xdhighfive?logo=true" height="28"/></a>
-  <a href="https://atcoder.jp/users/highfive"><img src="https://cp-logo.vercel.app/atcoder/highfive?logo=true" height="28"/></a>
-</p>
--->
----
 
 ### 🌟 Featured Project
 
@@ -79,14 +68,7 @@ A clean and intuitive web app to calculate Internal marks and grades.
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imdilshan&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdilshan&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
 
 ### 📌 2025 Goals
 
