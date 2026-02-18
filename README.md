@@ -70,10 +70,10 @@ A clean and intuitive web app to calculate Internal marks and grades.
 
 
 
-### 📌 2025 Goals
+### 📌 2026 Goals
 
 - 🧠 Strengthen CP and problem-solving with advanced topics  
-- 🌐 Launch and scale full-stack web apps  
+- 🌐 Launch and scale full-stack apps  
 - 📚 Contribute to open-source and publish knowledge  
 - 🛠 Build tools that solve real academic & developer challenges  
 
