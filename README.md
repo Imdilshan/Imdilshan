@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Imdilshan&label=Profile%20views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi, I'm Md Dilshan 👋</h1>
-<p align="center"><strong> Software Engineer | Competitive Programmer | Tech Explorer</strong></p>
-<p align="center"><em>aka <strong>highfive</strong> on coding platforms</em></p>
+<p align="center"><strong> CSE Student | Problem Solver | Developer </strong></p>
 
 <p align="center">
   <a href="https://github.com/Imdilshan?tab=followers">
@@ -17,66 +17,60 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 Current Focus
 
-- 🎓 B.Tech student passionate about bridging theory and real-world solutions  
-- 💡 Enthusiastic about algorithms, data structures & system design  
-- 🧩 Competitive programmer on LeetCode, Codeforces, CodeChef, and AtCoder  
-- 🚀 Building lightweight tools to simplify student and developer life
-
----
-
-
-### 🌟 Featured Project
-
-**🎯 SGPA Calculator**  
-A clean and intuitive web app to calculate SGPA from grades and credits.
-
-🔗 [Live App](https://imdilshan.github.io/Sgpa-Calculator/) | 📦 [GitHub Repo](https://github.com/Imdilshan/Sgpa-Calculator)
-
----
-**🎯 Internal Marks Calculator**  
-A clean and intuitive web app to calculate Internal marks and grades.
-
-🔗 [Live App](https://imdilshan.github.io/Internal-Marks-Calculator/) | 📦 [GitHub Repo](https://github.com/Imdilshan/Internal-Marks-Calculator)
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=light" />
-</p>
-
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=light" />
-</p>
-
-#### ⚙️ Backend & DB
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" />
-</p>
-
-#### 🛠 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sublime-text-icon.png"
-       alt="Sublime Text"style="height:48px; max-width:48px; margin-left:8px; vertical-align:middle;" />
-</p>
+- 📘 **DSA Journey** — Solving Data Structures & Algorithms problems in C++ 
+- 🧩 **Java Quiz Engine** — Modular quiz system built using Java
+- 🧠 Strengthening core CS fundamentals and problem-solving skills
 
 ---
 
 
+## 🌟 Featured Project
+
+**🧩 Java Quiz Engine**  
+A flexible quiz engine built in Java with modular structure and scalable logic.
+📦 [GitHub Repo](https://github.com/Imdilshan/JavaQuizEngine)
+
+**📘 DSA Journey**  
+Collection of Data Structures & Algorithms problems with optimized C++ solutions.
+📦 [GitHub Repo](https://github.com/Imdilshan/DSA_Journey)
+
+---
+
+
+## 🧠 Problem Solving & Competitive Programming
+
+- Active in competitive programming since the first year of engineering
+- Solved 100+ algorithmic problems across platforms
+- Participated in contests on  CodeChef, Codeforces and AtCoder
+
+**Profiles:**
+- CodeChef: https://www.codechef.com/users/xdhighfive  
+- Codeforces: https://codeforces.com/profile/highfive
+- LeetCode: https://leetcode.com/u/XDhighfive/  
+- AtCoder: https://atcoder.jp/users/highfive  
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+C++, Java, Python (basic)
+
+**Core Strength:**  
+Data Structures & Algorithms, Problem Solving
+
+**Currently Learning:**  
+Java for application development, PostgreSQL
+
+**Tools:**  
+Git, GitHub
+
+---
 
 ### 📌 2026 Goals
 
-- 🧠 Strengthen CP and problem-solving with advanced topics  
-- 🌐 Launch and scale full-stack apps  
+- 🧠 Master Data Structures & Algorithms
 - 📚 Contribute to open-source and publish knowledge  
-- 🛠 Build tools that solve real academic & developer challenges  
-
----
-
-> _“Every problem is a stepping stone. With each line of code, I aim to grow, contribute, and create something meaningful.”_
+- 🛠 Grow into a strong Software Engineer
