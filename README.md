@@ -42,7 +42,7 @@ Collection of Data Structures & Algorithms problems with optimized C++ solutions
 ## 🧠 Problem Solving & Competitive Programming
 
 - Active in competitive programming since the first year of engineering
-- Solved 100+ algorithmic problems across platforms
+- Solved 400+ algorithmic problems across platforms
 - Participated in contests on  CodeChef, Codeforces and AtCoder
 
 **Profiles:**
