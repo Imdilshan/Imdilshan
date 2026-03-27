@@ -14,7 +14,7 @@ Everything I build is focused on logic, clarity, and continuous improvement.
 
 - C++, Java, Python
 - Git, GitHub  
-- Learning: PostgreSQL, Backend basics  
+- Learning: PostgreSQL, REST API's
 
 ---
 
