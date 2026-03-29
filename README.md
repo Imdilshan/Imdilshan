@@ -2,7 +2,7 @@
 
 A CSE student who enjoys solving problems and building simple & efficient systems.
 
-I mostly work with C++, Java, and a bit of Python — focusing on Data Structures & Algorithms and core CS concepts.
+I mostly work with C++, Java, and a bit of Python - focusing on Data Structures & Algorithms and core CS concepts.
 
 Currently, I'm working on a Java-based quiz engine and improving my problem-solving skills through competitive programming.
 
