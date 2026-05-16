@@ -1,6 +1,6 @@
-### Hi 👋,  I'm Md Dilshan 
+### Hello 👋,  I'm Dilshan 
 
-A CSE student who enjoys solving problems and building simple & efficient systems.
+A CSE student developer who enjoys solving problems and building simple & efficient systems.
 
 I mostly work with C++, and Java - focusing on Data Structures & Algorithms and core CS concepts.
 
