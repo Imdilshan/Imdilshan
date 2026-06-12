@@ -1,23 +1,34 @@
-### Hello 👋,  I'm Dilshan 
+### Hello 👋,  I'm Md Dilshan 
 
-A CSE student developer who enjoys solving problems and building simple & efficient systems.
+CSE undergraduate building tools that make engineering education more accessible.
 
-I mostly work with C++, and Java - focusing on Data Structures & Algorithms and core CS concepts.
-
-Currently, I'm working on a Java-based quiz engine and improving my problem-solving skills through competitive programming.
-
-Everything I build is focused on logic, clarity, and continuous improvement.
+I work across the full stack — from system-level thinking in C++ and Java to shipping production web apps with the MERN stack. I care about building things that are simple, fast, and actually useful.
 
 ---
-### Tools & Tech
 
-- C++, Java, Python
-- Git, GitHub  
-- Learning: PostgreSQL, REST API's
+### What I'm Building
+
+**[Edubits](https://edubits-ten.vercel.app)** — An all-in-one academic toolkit for engineering students. SGPA/CGPA calculators, internal marks calculator, PYQ browser with progress tracking, adaptive quiz engine, task tracker, and more. 350+ active users.
+
+`React` `Node.js` `Express` `MongoDB` `Cloudinary` `JWT` `Passport.js`
+
 ---
 
-### A Bit About Me
+### Stack
 
-- ♟️ I enjoy chess and strategic thinking  
-- 🧠 Interested in psychology and how people think  
-- ⚡  I like building things that are simple and efficient
+- **Languages** — C++, Java, JavaScript  
+- **Frontend** — React, Vite, CSS (custom properties, responsive)  
+- **Backend** — Node.js, Express, MongoDB, Mongoose, REST APIs  
+- **Tools** — Git, Vercel, Render, MongoDB Atlas, Cloudinary
+
+---
+
+### How I Think
+
+Chess taught me to think several moves ahead — to consider consequences before acting, not after. Psychology helps me understand why people use (or abandon) what I build. Both show up in the products I make.
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/mddilshan) · [Edubits](https://edubits0.vercel.app)
