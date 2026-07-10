@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Imdilshan)](https://github.com/stats-organization/github-stats-extended)
+
 ### Hello 👋,  I'm Md Dilshan 
 
 CSE undergraduate building tools that make engineering education more accessible.
