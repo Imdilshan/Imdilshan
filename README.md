@@ -34,5 +34,3 @@ Chess taught me to think several moves ahead — to consider consequences before
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/mddilshan) · [Edubits](https://edubits0.vercel.app)
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Imdilshan)](https://github.com/stats-organization/github-stats-extended)
